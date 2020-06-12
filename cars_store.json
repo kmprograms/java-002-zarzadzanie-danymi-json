@@ -1,0 +1,37 @@
+{
+  "cars": [
+    {
+      "model": "AUDI",
+      "speed": 220,
+      "price": 120000,
+      "color": "BLACK",
+      "components": [
+        "C3",
+        "C1",
+        "C2"
+      ]
+    },
+    {
+      "model": "BMW",
+      "speed": 200,
+      "price": 110000,
+      "color": "GREY",
+      "components": [
+        "C4",
+        "C5",
+        "C6"
+      ]
+    },
+    {
+      "model": "MAZDA",
+      "speed": 180,
+      "price": 100000,
+      "color": "WHITE",
+      "components": [
+        "C7",
+        "C8",
+        "C9"
+      ]
+    }
+  ]
+}
